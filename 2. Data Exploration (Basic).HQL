@@ -22,3 +22,4 @@ customers.
 select sum(TotalCharges) 
 from telecom_data
 where Churn = 'Yes';
+
