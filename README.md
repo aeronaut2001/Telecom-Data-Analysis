@@ -56,4 +56,4 @@
   - Advanced insights into customer behavior, helping the telecom company make data-driven decisions.
   - The ability to identify patterns and factors contributing to churn, enabling proactive customer retention strategies.
 
-This project provides a practical opportunity to enhance your data analysis skills, particularly using Hive, and equips you with the knowledge to address similar challenges in other industries and domains.
+
