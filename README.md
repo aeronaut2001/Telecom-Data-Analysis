@@ -17,7 +17,7 @@
 
 <p align="left"> Cloud: </p>
 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> </p>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Amazon_Web_Services#/media/File:Amazon_Web_Services_Logo.svg" alt="gcp" width="40" height="40"/> </a> </p>
 
 <p align="left"> Version Control System: </p>
 
