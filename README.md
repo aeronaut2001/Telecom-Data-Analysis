@@ -17,7 +17,7 @@
 
 <p align="left"> Cloud: </p>
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Amazon_Web_Services#/media/File:Amazon_Web_Services_Logo.svg" alt="gcp" width="40" height="40"/> </a> </p>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="gcp" width="40" height="40"/> </a> </p>
 
 <p align="left"> Version Control System: </p>
 
